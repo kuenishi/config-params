@@ -1,0 +1,2 @@
+class ArgumentParser(object):
+    pass
