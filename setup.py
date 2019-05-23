@@ -26,7 +26,7 @@ setup(
     keywords='configuration parameter',
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
     python_requires='>=3.5, <4',
-    install_requires=[],
+    install_requires=['pyyaml'],
     extras_require={
         'test': ['coverage', 'pytest', 'flake8', 'pytest-xdist'],
     },

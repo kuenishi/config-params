@@ -1,1 +1,1 @@
-from config import ArgumentParser # NOQA
+from .config import ArgumentParser # NOQA
